@@ -1,5 +1,5 @@
 =0=       =1=       =2=       =3=       =4=       =5=        =6=        =7=
-it        input     input    input      input      0        space       \n
+it        input     input    input      input      #        space       \n
 it         F         u        g          i         u          s
            70        117      103        105       117        115
 
